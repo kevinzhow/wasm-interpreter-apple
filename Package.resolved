@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "CWasm3",
-        "repositoryURL": "https://github.com/shareup/cwasm3.git",
+        "repositoryURL": "https://github.com/kevinzhow/cwasm3.git",
         "state": {
           "branch": null,
-          "revision": "38335527c3ae87017d2c8993816d0e9612d18fc7",
-          "version": "0.5.1"
+          "revision": "39cd1a8fc80950e029ebdb4435d93134ae08c4aa",
+          "version": "0.5.3"
         }
       },
       {
